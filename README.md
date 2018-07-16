@@ -1,0 +1,2 @@
+# activiti
+activiti入门型工程，APP.java文件中有activiti运行中可能设计的大量方法Junit测试，部分变量需要从数据库中读取或查询task获得
